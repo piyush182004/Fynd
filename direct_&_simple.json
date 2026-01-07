@@ -1,0 +1,1202 @@
+[
+  {
+    "review_id": "fWKvX83p0-ka4JS3dc6E5A",
+    "actual_stars": 5,
+    "predicted_stars": 5,
+    "explanation": "The review is overwhelmingly positive, praising the food, service, atmosphere, and overall experience. The use of strong language like 'phenomenal,' 'simply the best,' and 'amazing' suggests a high level of satisfaction."
+  },
+  {
+    "review_id": "IjZ33sJrzXqU-0X6U8NwyA",
+    "actual_stars": 5,
+    "predicted_stars": 5,
+    "explanation": "The review is overwhelmingly positive and focuses on the reviewer's enjoyable experience. The tone dismisses negative reviews and highlights aspects of the restaurant that were enjoyed."
+  },
+  {
+    "review_id": "IESLBzqUCLdSzSqm0eCSxQ",
+    "actual_stars": 4,
+    "predicted_stars": 4,
+    "explanation": "The review expresses clear positive sentiment about the food (gyro plate and rice), indicating a good experience. The mention of candy adds to the overall enjoyment and suggests a pleasant atmosphere."
+  },
+  {
+    "review_id": "G-WvGaISbqqaMHlNnByodA",
+    "actual_stars": 5,
+    "predicted_stars": 5,
+    "explanation": "The review expresses strong positive feelings about Chaparral Dog Park. It highlights multiple aspects of the park's appeal and mentions it's well-maintained and safe for dogs."
+  },
+  {
+    "review_id": "1uJFq2r5QfJG_6ExMRCaGw",
+    "actual_stars": 5,
+    "predicted_stars": 5,
+    "explanation": "The review is overwhelmingly positive and highlights the helpfulness of a specific staff member (General Manager Scott Petello) in resolving customer issues. This suggests a strong likelihood of high satisfaction."
+  },
+  {
+    "review_id": "m2CKSsepBCoRYWxiRUsxAg",
+    "actual_stars": 4,
+    "predicted_stars": 4,
+    "explanation": "The review mentions both positive and negative aspects of the dining experience. The food is praised for its freshness and innovation, but service issues like slowness and lack of communication impact the rating. While a five-star rating seems possible with minor improvements, this review suggests a strong 'good' rating overall."
+  },
+  {
+    "review_id": "riFQ3vxNpP4rWLk_CSri2A",
+    "actual_stars": 5,
+    "predicted_stars": 5,
+    "explanation": "The reviewer uses highly positive language like 'drop what you're doing and drive here', 'delicious meals', 'so much flavor' and 'soooo yummy'. They also express enthusiasm for the decor and food variety and specifically highlight their favorite dish. This all leads to a strong indication of a highly favorable experience."
+  },
+  {
+    "review_id": "JL7GXJ9u4YMx7Rzs05NfiQ",
+    "actual_stars": 4,
+    "predicted_stars": 4,
+    "explanation": "The review expresses satisfaction with the layover experience, highlighting positive aspects like friendly staff and punctuality. It also hints at future visits to Phoenix, suggesting a generally positive sentiment."
+  },
+  {
+    "review_id": "XtnfnYmnJYi71yIuGsXIUA",
+    "actual_stars": 4,
+    "predicted_stars": 4,
+    "explanation": "The review is overwhelmingly positive, highlighting good pricing, atmosphere, and service. The only slight downside mentioned is the crowding, which doesn't detract significantly from the overall experience."
+  },
+  {
+    "review_id": "jJAIXA46pU1swYyRCdfXtQ",
+    "actual_stars": 5,
+    "predicted_stars": 5,
+    "explanation": "The review uses highly positive language like 'unique talents', 'carefully crafted features', and 'cannot anymore' which strongly suggests a very positive experience."
+  },
+  {
+    "review_id": "E11jzpKz9Kw5K7fuARWfRw",
+    "actual_stars": 5,
+    "predicted_stars": 4,
+    "explanation": "Fallback parsing - no explanation"
+  },
+  {
+    "review_id": "3rPt0LxF7rgmEUrznoH22w",
+    "actual_stars": 5,
+    "predicted_stars": 4,
+    "explanation": "The review is overwhelmingly positive, highlighting the quality of the food, service (mentioning ATM), and overall experience. The slightly negative aspect about no credit card options could be considered a minor drawback."
+  },
+  {
+    "review_id": "cGnKNX3I9rthE0-TH24-qA",
+    "actual_stars": 5,
+    "predicted_stars": 5,
+    "explanation": "The review explicitly states 'THE best BBQ Chicken pizza I have ever had' and a strong overall rating of 4 stars despite not being perfect across the board. This indicates a high level of satisfaction with the pizza specifically and a slight reservation on other aspects."
+  },
+  {
+    "review_id": "FvEEw1_OsrYdvwLV5Hrliw",
+    "actual_stars": 4,
+    "predicted_stars": 5,
+    "explanation": "The review is overwhelmingly positive, praising the shop's cleanliness, art selection, communication with artists, and the artist's skill and professionalism. This indicates a very high level of satisfaction which translates to a 5-star rating."
+  },
+  {
+    "review_id": "pfUwBKYYmUXeiwrhDluQcw",
+    "actual_stars": 4,
+    "predicted_stars": 4,
+    "explanation": "The review expresses clear satisfaction with the atmosphere, service, food, and overall experience. The detailed descriptions and positive sentiments suggest a highly enjoyable visit, contributing to a solid star rating."
+  },
+  {
+    "review_id": "HvqmdqWcerVWO3Gs6zbrOw",
+    "actual_stars": 2,
+    "predicted_stars": 2,
+    "explanation": "The review expresses clear dissatisfaction with the service and overpriced items. While the customer acknowledges a potential for an 'upselling' opportunity, they ultimately express their negative experience and do not see themselves returning unless in dire circumstances."
+  },
+  {
+    "review_id": "HXP_0Ul-FCmA4f-k9CqvaQ",
+    "actual_stars": 3,
+    "predicted_stars": 3,
+    "explanation": "While the reviewer highlights positive aspects like good bloody mary, tasty wings, and an interesting ambiance, they also mention negative experiences with dry fish and underwhelming salads. This suggests a mixed experience overall."
+  },
+  {
+    "review_id": "j4SIzrIy0WrmW4yr4--Khg",
+    "actual_stars": 5,
+    "predicted_stars": 5,
+    "explanation": "The reviewer uses highly positive language like 'best place EVER,' 'shocked', and 'happy' to express their intense satisfaction with the store. They also mention liking the location of the store in Los Gatos and Oakville, further emphasizing their positive experience."
+  },
+  {
+    "review_id": "v0cTd3PNpYCkTyGKSpOfGA",
+    "actual_stars": 3,
+    "predicted_stars": 3,
+    "explanation": "The review expresses positive aspects like the patio, atmosphere, and food quality. However, it also highlights negative points regarding portion sizes, lack of complimentary chips and salsa, and overall price-to-value ratio."
+  },
+  {
+    "review_id": "a0lCu-j2Sk_kHQsZi_eNgw",
+    "actual_stars": 4,
+    "predicted_stars": 4,
+    "explanation": "The review acknowledges past difficulties but highlights recent improvements and positive experiences. The emphasis on customer service and the mention of value suggest a generally positive impression."
+  },
+  {
+    "review_id": "MuqugTuR5DdIPcZ2IVP3aQ",
+    "actual_stars": 3,
+    "predicted_stars": 4,
+    "explanation": "The review highlights positive aspects like 'neat place', 'great service', and 'good food'. It's well-written and informative, but doesn't offer a particularly glowing or negative experience. This suggests a solid recommendation with some room for personal preference."
+  },
+  {
+    "review_id": "LmuKVFh03Uz318VKnUWrxA",
+    "actual_stars": 5,
+    "predicted_stars": 1,
+    "explanation": "The review expresses a strong desire for secrecy and implies dissatisfaction. This is an indication of a very negative experience."
+  },
+  {
+    "review_id": "CQYc8hgKxV4enApDkx0IhA",
+    "actual_stars": 5,
+    "predicted_stars": 5,
+    "explanation": "The review expresses clear satisfaction with the food and restaurant experience, using phrases like 'delicious!' and 'will be going back ALOT'. This suggests a very positive impression."
+  },
+  {
+    "review_id": "Dx9sfFU6Zn0GYOckijom-g",
+    "actual_stars": 1,
+    "predicted_stars": 1,
+    "explanation": "This review expresses extreme dissatisfaction and anger towards the dealership. It highlights multiple instances of dishonesty and poor service, ultimately resulting in financial losses and potential safety issues. The use of highly negative language and warnings strongly suggests a low-rating experience."
+  },
+  {
+    "review_id": "cFtQnKzn2VDpBedy_TxlvA",
+    "actual_stars": 5,
+    "predicted_stars": 5,
+    "explanation": "The reviewer expresses strong positive feelings about the place, mentioning many favorite items and praising the atmosphere. This suggests a highly positive experience."
+  },
+  {
+    "review_id": "ChBeixVZerfFkeO0McdlbA",
+    "actual_stars": 4,
+    "predicted_stars": 4,
+    "explanation": "The reviewer clearly enjoys their experience and highlights positive aspects like the homemade ice cream, atmosphere, and vast flavor options. The only negative comment is a slight preference for simpler flavors. This overall suggests a positive review with minor quibbles."
+  },
+  {
+    "review_id": "kZ4TzrVX6qeF0OvrVTGVEw",
+    "actual_stars": 5,
+    "predicted_stars": 5,
+    "explanation": "The reviewer uses highly positive language throughout the review, highlighting their love for the restaurant and its food. They repeatedly mention how much they enjoy returning to the restaurant, indicating high satisfaction and enjoyment."
+  },
+  {
+    "review_id": "B5h25WK28rJjx4KHm4gr7g",
+    "actual_stars": 4,
+    "predicted_stars": 4,
+    "explanation": "The reviewer expresses strong positive feelings about the food and their experience (especially enjoying it a lot) but also notes minor drawbacks like slow service. This suggests a good-quality restaurant with some room for improvement."
+  },
+  {
+    "review_id": "Y_ERKao0J5WsRiCtlKSNSA",
+    "actual_stars": 4,
+    "predicted_stars": 4,
+    "explanation": "The review highlights positive aspects like delicious food, a great atmosphere and personalized service. While it mentions some minor price adjustments due to inflation, the overall tone is positive and appreciative of the experience."
+  },
+  {
+    "review_id": "hre97jjSwon4bn1muHKOJg",
+    "actual_stars": 4,
+    "predicted_stars": 5,
+    "explanation": "The review uses highly positive language like 'reliable good,' 'outstanding,' and 'fabulous,' indicating a very satisfied experience. They also highlight their diverse menu options and mention they generally avoid chains, suggesting a strong overall opinion."
+  },
+  {
+    "review_id": "dtpJXC5p_sdWDLSobluJ3Q",
+    "actual_stars": 5,
+    "predicted_stars": 5,
+    "explanation": "The review expresses strong positive feelings about the food and atmosphere. The reviewer even mentions a minor negative (small space), which doesn't detract from their overall experience. "
+  },
+  {
+    "review_id": "S9OVpXat8k5YwWCn6FAgXg",
+    "actual_stars": 1,
+    "predicted_stars": 1,
+    "explanation": "The review expresses extreme negativity and points to poor quality food, outdated decor, and suspicious reviews. This strongly indicates a bad experience."
+  },
+  {
+    "review_id": "-v-shjbxoj7hpU62yn6vag",
+    "actual_stars": 5,
+    "predicted_stars": 4,
+    "explanation": "The review highlights positive aspects like friendly service, efficient process, good communication and helpful staff. The minor inconvenience of needing to reschedule is acknowledged positively."
+  },
+  {
+    "review_id": "2VTwjhOX3UUvgOGbxe4xfA",
+    "actual_stars": 4,
+    "predicted_stars": 4,
+    "explanation": "The review expresses strong positive sentiment about the food and service, mentioning 'delicious' and recommending drinks. The only minor drawback is regarding the wine which was not great, but overall it sounds like a positive experience."
+  },
+  {
+    "review_id": "Bk7F8IyBuOHVp6w3BAKVow",
+    "actual_stars": 3,
+    "predicted_stars": 3,
+    "explanation": "The review provides both positive (good price/portion) and negative aspects (bland food, dislike of diner ambiance).  It balances a middle ground score."
+  },
+  {
+    "review_id": "ApKbwpYJdnhhgP4NbjQw2Q",
+    "actual_stars": 1,
+    "predicted_stars": 1,
+    "explanation": "Fallback parsing - no explanation"
+  },
+  {
+    "review_id": "vUuFuf4LYxfqbZH3lYxJfw",
+    "actual_stars": 4,
+    "predicted_stars": 5,
+    "explanation": "The review expresses clear satisfaction with the restaurant's food quality, atmosphere, service, and overall experience. Positive language, strong recommendations, and a personal connection to the eatery all suggest a highly positive rating."
+  },
+  {
+    "review_id": "gNm48xplqt42p-NvCkzUBg",
+    "actual_stars": 4,
+    "predicted_stars": 5,
+    "explanation": "The review expresses clear positive sentiment about the cleanliness, staff friendliness, and overall experience, leading to a high star rating."
+  },
+  {
+    "review_id": "5V9lfjjlY7tkXgkcDUWYyg",
+    "actual_stars": 4,
+    "predicted_stars": 3,
+    "explanation": "The review mentions both positives and negatives about the food. It's simple, slightly bland but fresh, with healthy options, good staff interaction, and a pleasant atmosphere."
+  },
+  {
+    "review_id": "1fRGR6XTTElRBZW_oDrpUA",
+    "actual_stars": 4,
+    "predicted_stars": 5,
+    "explanation": "The reviewer uses positive language throughout, highlighting the food's quality, staff friendliness, and overall value. They even recommend trying new dishes despite their strong preference for their favorites."
+  },
+  {
+    "review_id": "2sG6LKzRz91l10stVHl8uQ",
+    "actual_stars": 4,
+    "predicted_stars": 4,
+    "explanation": "The review praises the food quality and variety of options offered by the deli style restaurant. However, they do mention the price as a minor drawback."
+  },
+  {
+    "review_id": "fuY6Bf4EtW3UwrdLQJa9_Q",
+    "actual_stars": 4,
+    "predicted_stars": 4,
+    "explanation": "The reviewer expresses clear appreciation for the store's quality and helpful staff, while also acknowledging its high prices. This balances a positive and realistic perspective, suggesting a strong 'like' despite financial limitations."
+  },
+  {
+    "review_id": "UTWI0z7nV5zNJLWnOz9Z5A",
+    "actual_stars": 4,
+    "predicted_stars": 4,
+    "explanation": "The review expresses clear satisfaction with the food, environment and overall experience. The use of phrases like 'solid,' 'really good' and 'will not leave you hungry' point towards a positive rating."
+  },
+  {
+    "review_id": "7uzj6rJ71toRmdsXyo2suA",
+    "actual_stars": 4,
+    "predicted_stars": 4,
+    "explanation": "The review mentions positive aspects like the food, atmosphere, and frequent visits. The tone is generally favorable and suggests a high level of satisfaction."
+  },
+  {
+    "review_id": "HXU9dbOSlByXW-dB8LmJgA",
+    "actual_stars": 4,
+    "predicted_stars": 4,
+    "explanation": "The reviewer expresses clear satisfaction and detail about the food, service, and atmosphere.  Their tone is positive and enthusiastic, highlighting both specific details like the delicious amuse and perfect crust. While there are some minor negatives (hard bread), overall it's a strongly positive review."
+  },
+  {
+    "review_id": "1FvrC35rTJ6BWFvRog7tuA",
+    "actual_stars": 3,
+    "predicted_stars": 4,
+    "explanation": "The review expresses mostly positive feelings with some caveats. The ice cream is highlighted as delicious, service is 'fine,' and the place is clean - all of which contribute to a high rating.  However, the reviewer's motivation for returning is driven by a sweet tooth, implying that it might not be the most outstanding or exceptional experience."
+  },
+  {
+    "review_id": "Ckk1Cne1GHwzmJfo7M4r2w",
+    "actual_stars": 5,
+    "predicted_stars": 5,
+    "explanation": "The review expresses extreme positivity about the coffee shop (highlighting 'amazing' food and music). The use of language like 'fortunate' and 'much poorer' suggests a strong personal enjoyment despite financial costs."
+  },
+  {
+    "review_id": "bu9S6tFKuTrMcNxQaQYMQA",
+    "actual_stars": 3,
+    "predicted_stars": 2,
+    "explanation": "While the review mentions positive aspects like friendly staff, pleasant ambiance, and cleanliness, the overall disappointment with the cupcakes leads to a subpar rating."
+  },
+  {
+    "review_id": "V75NCU3EhqTDwPj5In94DQ",
+    "actual_stars": 4,
+    "predicted_stars": 4,
+    "explanation": "The review expresses satisfaction with the restaurant's suitability for social outings and mentions positive aspects like the market and bakery treats. The tone is generally positive and suggests a good experience."
+  },
+  {
+    "review_id": "GxaYFCprt-wyqO--vB4PHQ",
+    "actual_stars": 4,
+    "predicted_stars": 3,
+    "explanation": "The review highlights both positive aspects (ambiance, fresh ingredients) and negatives (overcooked burger, cheese presentation). It expresses disappointment with the burger but acknowledges attempts at uniqueness. A 3-star rating reflects a moderate experience overall."
+  },
+  {
+    "review_id": "RZZ9Tf5GWYwrcjg-ACiKmQ",
+    "actual_stars": 4,
+    "predicted_stars": 4,
+    "explanation": "The review is highly positive overall, emphasizing convenience, affordability, and the sheer practicality of the sushi experience. The author uses a humorous tone to acknowledge some aspects that might be less appealing but ultimately finds the place enjoyable for its budget-friendly value."
+  },
+  {
+    "review_id": "Bmt1QRDT0GfyXkhOvj_BfQ",
+    "actual_stars": 5,
+    "predicted_stars": 5,
+    "explanation": "The reviewer highlights the unique selling point of the restaurant and expresses excitement for it. This shows positive sentiment and a strong recommendation."
+  },
+  {
+    "review_id": "V4hBluqV-xbgzk7Y6y9kzw",
+    "actual_stars": 4,
+    "predicted_stars": 4,
+    "explanation": "The review is overwhelmingly positive, highlighting the variety of Japanese products, friendly service, and reasonable prices. However, some slight criticism regarding limited non-Japanese items may lead to a slightly lower rating."
+  },
+  {
+    "review_id": "hHwQaL3QN2xgTBSCQ26wIA",
+    "actual_stars": 4,
+    "predicted_stars": 4,
+    "explanation": "The review is largely positive with a focus on specific minor drawbacks.  While the reviewer notes that the lack of reclining and movement may not be ideal for all, the overall experience is highlighted as enjoyable and with good aspects like screen size and sound quality. "
+  },
+  {
+    "review_id": "GOconNmWgg6cJbgwSwrozw",
+    "actual_stars": 5,
+    "predicted_stars": 4,
+    "explanation": "The review is overwhelmingly positive, using phrases like 'best thing I have eaten in the last year,' 'deliciously soft,' and 'orgy of goodness.'  While not perfect (some minor food criticism), the overall enthusiasm outweighs any negative points. The mention of a wait and specific details like Red Velvet cake further reinforce this high opinion."
+  },
+  {
+    "review_id": "6jRs2P6zTYMn36fVnCu1Zw",
+    "actual_stars": 4,
+    "predicted_stars": 4,
+    "explanation": "The review is highly positive overall but includes some minor criticisms and specific details that suggest a rating of 4 stars. While the reviewer appreciates their experience at Vintage 95, they point out specific details like the limited menu, the need for quiet conversation, and an allergy incident that could have been more disastrous if handled poorly. The review also praises aspects like good service, ambiance, food quality, and unique flavors."
+  },
+  {
+    "review_id": "VyX6x7wnThr9g9Z6VBDIgA",
+    "actual_stars": 2,
+    "predicted_stars": 2,
+    "explanation": "While the food itself might be okay, the service provided is consistently terrible. The writer explicitly complains about multiple issues, from seating to incorrect orders and overall unprofessionalism. This suggests a severely negative experience that would likely deter repeat business."
+  },
+  {
+    "review_id": "IRGqHYbK5AOEv5MNYMz7cQ",
+    "actual_stars": 4,
+    "predicted_stars": 3,
+    "explanation": "The review expresses mixed feelings about the coffee shop. While appreciating its aesthetics and potential, it acknowledges a lack of community feel, leading to a balanced score."
+  },
+  {
+    "review_id": "9CXNIZTV9uStuNbvvFS8uw",
+    "actual_stars": 4,
+    "predicted_stars": 4,
+    "explanation": "The review highlights positive aspects of the restaurant: tasty food, friendly staff, and a comfortable atmosphere. While the menu's variety might be overwhelming for some, it doesn't deter the reviewer from giving them high marks."
+  },
+  {
+    "review_id": "nzSOTOZiAb1ITqbRgWKnnQ",
+    "actual_stars": 5,
+    "predicted_stars": 5,
+    "explanation": "The review is overwhelmingly positive, highlighting aspects like delicious food, fresh ingredients, exceptional service, and a commitment to detail. The enthusiastic tone and personal recommendations from the owner further indicate a high level of satisfaction."
+  },
+  {
+    "review_id": "9BJJwIciVG-JPlXetInbXw",
+    "actual_stars": 4,
+    "predicted_stars": 4,
+    "explanation": "The review is positive overall, mentioning good sandwiches, a decent salad bar, and a recommendation for the ice cream. It also notes a minor negative (substituting sides) but doesn't express strong dissatisfaction."
+  },
+  {
+    "review_id": "DJVxOfj2Rw9zklC9tU3i1w",
+    "actual_stars": 1,
+    "predicted_stars": 2,
+    "explanation": "The review expresses frustration over poor customer service and a lack of respect for the customer's time. While they appreciate the deals, the experience outweighs it in terms of star rating."
+  },
+  {
+    "review_id": "J2Ig5cV9fJU-KGewdzQXOA",
+    "actual_stars": 3,
+    "predicted_stars": 3,
+    "explanation": "The reviewer gives praise for the atmosphere and ambiance but expresses disappointment in the food. The average rating is reflected in the stars."
+  },
+  {
+    "review_id": "rghv_qgXpluzDE9qn8CNrw",
+    "actual_stars": 4,
+    "predicted_stars": 5,
+    "explanation": "The review expresses immense positive sentiment using words like 'romantic', '5 star', 'respectful', 'cloud 9'. It highlights various aspects the reviewer appreciated (waitress service, ambience, coves, friendliness) and also praises their helpfulness in getting a table. These details suggest a very positive experience that warrants a high rating."
+  },
+  {
+    "review_id": "GXj4PNAi095-q9ynPYH3kg",
+    "actual_stars": 1,
+    "predicted_stars": 1,
+    "explanation": "The review expresses extreme dissatisfaction with service and management, using harsh language. This level of negativity warrants a low star rating."
+  },
+  {
+    "review_id": "LN4l4wklQB0IVBjm-vq9TA",
+    "actual_stars": 1,
+    "predicted_stars": 2,
+    "explanation": "The reviewer expresses dissatisfaction due to slow service and bone issues, despite the comping of the meal. This suggests a lackluster experience that warrants caution for future visits."
+  },
+  {
+    "review_id": "L_q9kLaGo33j2Ij8yUIGDw",
+    "actual_stars": 5,
+    "predicted_stars": 4,
+    "explanation": "While the review focuses on the church's mission and outreach, it lacks specifics about the actual experience.  The positive tone suggests a good overall impression but is lacking in detail to warrant a full 5-star rating."
+  },
+  {
+    "review_id": "dY_p1YkjZxJmREb9Lfc5vw",
+    "actual_stars": 5,
+    "predicted_stars": 4,
+    "explanation": "The review is overwhelmingly positive, mentioning 'favorite' and 'best' about the food and staff.  A minor complaint regarding wait times doesn't detract from the overall positivity."
+  },
+  {
+    "review_id": "mTcLzmYunqJIGKgklFWICg",
+    "actual_stars": 4,
+    "predicted_stars": 5,
+    "explanation": "The review contains highly positive language like 'best', 'delicious', and 'favorable' indicating a very satisfied experience."
+  },
+  {
+    "review_id": "-_hed9F2kUDdb4oa1CXKIA",
+    "actual_stars": 5,
+    "predicted_stars": 5,
+    "explanation": "The review is overwhelmingly positive, using terms like 'stellar', 'highly recommend,' and describing the experience as helping every step of the way. This indicates a very strong level of satisfaction."
+  },
+  {
+    "review_id": "xNvNTC2iXwJiiujNK6Sphg",
+    "actual_stars": 4,
+    "predicted_stars": 4,
+    "explanation": "The reviewer highlights specific positives (good pho, decor) and acknowledges a slight misstep with one combination. Overall, the tone is positive and suggests they would recommend the place."
+  },
+  {
+    "review_id": "jNewOjPp56NMDrKlajrgFQ",
+    "actual_stars": 1,
+    "predicted_stars": 2,
+    "explanation": "The review cites both poor service and subpar food quality, leading to a negative overall experience. While the reviewer acknowledges positive elements (like good recommendations) they are ultimately frustrated by the service issues."
+  },
+  {
+    "review_id": "WONOXuKoiT2hkKITvTfC0g",
+    "actual_stars": 4,
+    "predicted_stars": 4,
+    "explanation": "The review mentions both positives (good finds at a lower price) and negatives (picky staff) but ultimately highlights positive experiences with finding good clothes. This indicates a generally positive experience that warrants 4 stars."
+  },
+  {
+    "review_id": "IC2EAv_PGx44FnTvfAs_FA",
+    "actual_stars": 4,
+    "predicted_stars": 4,
+    "explanation": "The review is overwhelmingly positive, highlighting excellent service, consistent food quality, and a comfortable atmosphere. It mentions several specific dishes they enjoy and appreciates the restaurant's dedication to customer satisfaction through frequent programs and their patio."
+  },
+  {
+    "review_id": "SWdrx60taMa442b1enwfCw",
+    "actual_stars": 5,
+    "predicted_stars": 5,
+    "explanation": "The review is overwhelmingly positive, praising the shop's unique items, friendly staff, and helpfulness.  The mention of a clearance sale adds to the enthusiasm and suggests high satisfaction with the store."
+  },
+  {
+    "review_id": "UxzU0E5eM_ZgIMus-wpS8g",
+    "actual_stars": 4,
+    "predicted_stars": 4,
+    "explanation": "The review highlights positive aspects like delicious food and good service. It mentions minor negatives (interior design) but doesn't detract from the overall positive experience."
+  },
+  {
+    "review_id": "QqUj8brMiWkMicmlWtpPrw",
+    "actual_stars": 4,
+    "predicted_stars": 4,
+    "explanation": "The reviewer expresses satisfaction with the food (particularly french toast) and service, but also points out limitations on menu variety. The overall rating suggests a positive experience."
+  },
+  {
+    "review_id": "gLHPqclZG51HH9EGzOFjxQ",
+    "actual_stars": 4,
+    "predicted_stars": 4,
+    "explanation": "The review expresses strong positive sentiment about the food, prices, and staff. It compares favorably to other Chinese restaurants in the Valley, indicating a good experience."
+  },
+  {
+    "review_id": "ZXp8gEhfE7BHgRYIgnd3gQ",
+    "actual_stars": 5,
+    "predicted_stars": 4,
+    "explanation": "The reviewer highlights both good food and a wide selection of beer, suggesting satisfaction. The mention of 'very best thing' suggests strong positive sentiment for the beer. However,  lacking specifics on food or service might lead to a slightly lower rating than it deserves."
+  },
+  {
+    "review_id": "odua8qFSMEXSFYmElQTspQ",
+    "actual_stars": 1,
+    "predicted_stars": 1,
+    "explanation": "The review expresses uncertainty and a lack of clarity about the event.  No positive or negative information is provided. It's likely to be a low-rated experience."
+  },
+  {
+    "review_id": "vwHmBJ5YKbZxNFtmP2KpRQ",
+    "actual_stars": 4,
+    "predicted_stars": 4,
+    "explanation": "The reviewer expresses strong positive feelings about the food and atmosphere of Green. They highlight specific dishes as must-tries, mention good service, and recommend it for a casual date, indicating a good overall experience."
+  },
+  {
+    "review_id": "BslISEau8Pk2voEPN7kY-g",
+    "actual_stars": 4,
+    "predicted_stars": 5,
+    "explanation": "The reviewer clearly expresses high satisfaction with the food, service, and ambiance. Phrases like 'super happy', 'awesome', 'couldn't decide', 'super crowded (which is a good sign)', and 'can't wait to go back' all point towards a positive experience."
+  },
+  {
+    "review_id": "xE2MKvzes5Twg-jfAe8s4Q",
+    "actual_stars": 5,
+    "predicted_stars": 5,
+    "explanation": "The review is overwhelmingly positive, praising various aspects of the studio and instructor. The writer uses humor and personal anecdotes to express enjoyment, highlighting specific details like the calm environment and the teacher's skills. This level of enthusiasm makes it a strong indication of a highly satisfying experience."
+  },
+  {
+    "review_id": "bxPZPvBJp5HwyKVHhcUMLQ",
+    "actual_stars": 4,
+    "predicted_stars": 4,
+    "explanation": "The review highlights both positive and negative aspects. While the reviewer mentions limitations (lack of nearby activities and needing a car), they also emphasize the positives (hotel features, location, atmosphere) for those who are prepared to stay within walking distance."
+  },
+  {
+    "review_id": "EUCqs_gfKZi1YoKVkWjSYw",
+    "actual_stars": 1,
+    "predicted_stars": 2,
+    "explanation": "The reviewer expresses dissatisfaction with various aspects of the restaurant, including rude service, inflexible seating policies, subpar presentation (warm salad, wobbly table), and mediocre desserts. The overall tone suggests disappointment despite the mention of good food."
+  },
+  {
+    "review_id": "1RSEAeAWilUywt1B3SAkSA",
+    "actual_stars": 4,
+    "predicted_stars": 4,
+    "explanation": "The review expresses positive sentiment about the restaurant with highlights of good service and food, acknowledging a few potential drawbacks (noise and wait time) which are balanced by practical recommendations. This aligns with a high rating."
+  },
+  {
+    "review_id": "pyCM8bH0z8fp6cWg6f2hKQ",
+    "actual_stars": 5,
+    "predicted_stars": 5,
+    "explanation": "The review uses highly positive language, mentioning the food being 'top quality,' 'dazzled by the flavor,' and 'too awesome.' It praises specific dishes, service, and atmosphere, indicating a very strong overall satisfaction."
+  },
+  {
+    "review_id": "WD99RuBcxqvYRCFTf_mT3A",
+    "actual_stars": 4,
+    "predicted_stars": 4,
+    "explanation": "The review highlights both positive aspects like course difficulty and enjoyable round despite limitations.  It also mentions good service and food making it a positive experience."
+  },
+  {
+    "review_id": "aRcp0rlSuAiuF-CDDZx9nQ",
+    "actual_stars": 5,
+    "predicted_stars": 5,
+    "explanation": "The review uses enthusiastic language like 'amazing,' 'melt in your mouth,' and mentions specific items they enjoyed.  The reference to a bargain price ($3 car bombs) further suggests a positive experience."
+  },
+  {
+    "review_id": "VqNdpXrssjJrC0Z_swPUdA",
+    "actual_stars": 1,
+    "predicted_stars": 2,
+    "explanation": "The reviewer expresses disappointment with the event's organization and lack of value for money. Despite some positives regarding food quality, a negative experience overall leads to a moderate rating."
+  },
+  {
+    "review_id": "6iEP6dvHIefVMMnjeDRNcQ",
+    "actual_stars": 1,
+    "predicted_stars": 1,
+    "explanation": "The review expresses extreme dissatisfaction with lost luggage and airport security measures. Despite attempts to find the positive side, the overall tone is overwhelmingly negative."
+  },
+  {
+    "review_id": "CxVOhu043DTW4zPTsQnJPA",
+    "actual_stars": 5,
+    "predicted_stars": 4,
+    "explanation": "The review expresses genuine satisfaction with the coffee shop's quality, ambience, and customer service.  Positive language like 'profesh', 'fruity noted espresso', and hopes for longevity indicate a strong positive sentiment."
+  },
+  {
+    "review_id": "ZbSLbPWeDfSL1HxyiSRqEg",
+    "actual_stars": 4,
+    "predicted_stars": 4,
+    "explanation": "The review contains positive descriptions of the ambiance and experience at the bar, like 'good times' and a mention of live music. However, it also admits to being an 'average little bar' which might indicate some minor drawbacks or compromises."
+  },
+  {
+    "review_id": "pMm0qHdnBWd_PWGyYEOnWg",
+    "actual_stars": 4,
+    "predicted_stars": 4,
+    "explanation": "The review expresses positive sentiment about the food and service but is dissatisfied with a minor pricing detail. This generally indicates a good experience, though not exceptional."
+  },
+  {
+    "review_id": "E6-DKEktgxA_fLEnfguAwA",
+    "actual_stars": 4,
+    "predicted_stars": 5,
+    "explanation": "The reviewer uses highly specific and positive language (e.g., 'perfectly crunchy', 'beautifully spiced,' 'wonderful') comparing the food to their experience in Panama and highlighting details like excellent service. This suggests a very positive experience with a high level of satisfaction."
+  },
+  {
+    "review_id": "i5Ms8r5AMRa-wcU5-necFA",
+    "actual_stars": 5,
+    "predicted_stars": 4,
+    "explanation": "The review expresses clear satisfaction with the food, atmosphere, and price point, which is a strong indication of a positive experience. The short, positive tone suggests a good level of quality."
+  },
+  {
+    "review_id": "Y8GAudCnbK-05qkFzLsv0Q",
+    "actual_stars": 4,
+    "predicted_stars": 3,
+    "explanation": "The reviewer provides positive feedback for the food, particularly for the brunch options. However, the service aspect is negatively mentioned as a drawback, which slightly lowers the overall rating."
+  },
+  {
+    "review_id": "cALYebKb5hygdKHqlQJu2Q",
+    "actual_stars": 4,
+    "predicted_stars": 3,
+    "explanation": "The review expresses a somewhat positive sentiment but also highlights an unexpected experience. It lacks clear praise or criticism, leading to a neutral score."
+  },
+  {
+    "review_id": "SawdMXLYD5ytRmMFvY4nmA",
+    "actual_stars": 5,
+    "predicted_stars": 5,
+    "explanation": "The review is overwhelmingly positive with clear highlights of quality service, reasonable prices, and a convenient location. The author also mentions personal experience which adds to the authenticity of the recommendation."
+  },
+  {
+    "review_id": "j-jMQdELr6AFkCcEHxB7ww",
+    "actual_stars": 5,
+    "predicted_stars": 4,
+    "explanation": "This review highlights many positive aspects like the atmosphere, food quality, and unique memorabilia. While some details like the side dish and dessert were not fully satisfactory, the overall experience is described as enjoyable and memorable."
+  },
+  {
+    "review_id": "SmUMyCUNrT9HEo_DXdgUuQ",
+    "actual_stars": 4,
+    "predicted_stars": 4,
+    "explanation": "The reviewer clearly has a positive experience and gives high praise for the coffee and atmosphere.  It's clear they enjoy the cafe and would recommend it."
+  },
+  {
+    "review_id": "oTB_mpCKcu-8wayQQuCDZw",
+    "actual_stars": 5,
+    "predicted_stars": 5,
+    "explanation": "The review uses positive language like 'Best', 'super friendly', and 'Love it' which all indicate a high satisfaction level."
+  },
+  {
+    "review_id": "1e_YRoF0lrA9-4tvdym_Sg",
+    "actual_stars": 5,
+    "predicted_stars": 5,
+    "explanation": "The review is overwhelmingly positive, highlighting the baker's skills, creativity, and impressive work.  It mentions personal experiences with excellent cakes and a successful TV competition, further reinforcing the positive rating."
+  },
+  {
+    "review_id": "WqLc0KSfMHGoWNtvPque5w",
+    "actual_stars": 4,
+    "predicted_stars": 5,
+    "explanation": "The reviewer expresses immense fondness for Coup, highlighting their consistent food quality, romantic atmosphere (with specific recommendations), and positive experience across multiple visits.  However, they also provide constructive criticism to improve the menu variety and service speed."
+  },
+  {
+    "review_id": "4jkSNOjZN-35vo1_Z2SL7w",
+    "actual_stars": 3,
+    "predicted_stars": 5,
+    "explanation": "The review expresses strong positive sentiment with praise for food, service, and the chef's interaction. This indicates a very satisfied experience."
+  },
+  {
+    "review_id": "MbLozRSxSjtMJ3YmPCms7Q",
+    "actual_stars": 1,
+    "predicted_stars": 1,
+    "explanation": "This review is overwhelmingly negative due to multiple instances of inflated pricing, rude and aggressive customer service, and a threat to report the customer to authorities.  The tone of the review is highly critical and clearly shows a low level of satisfaction."
+  },
+  {
+    "review_id": "xbXkOaXLbwFsCMgsH6T9Tg",
+    "actual_stars": 5,
+    "predicted_stars": 5,
+    "explanation": "The review is overwhelmingly positive, describing the restaurant as 'amazing,'  highlighting aspects like ambiance, live music, unique food, and a personal highlight of their trip. The reviewer's enthusiasm for the restaurant suggests a highly positive experience."
+  },
+  {
+    "review_id": "LbSa1y7dGRZc4z6TXFG4AQ",
+    "actual_stars": 3,
+    "predicted_stars": 3,
+    "explanation": "The review is mixed. The author recognizes the consistency of Target's offerings as a positive but expresses disappointment at the lack of extra features for its location in a 'upscale' shopping center. Additionally, they mention traffic and parking as major drawbacks. This suggests a satisfactory experience that isn't quite exceptional but not terrible either."
+  },
+  {
+    "review_id": "39gCBTrQVeM4GVOt_wEoLg",
+    "actual_stars": 5,
+    "predicted_stars": 5,
+    "explanation": "The reviewer gives the restaurant an extremely high rating (9.9999) and emphasizes positive aspects like menu size and desserts. The comparison to 'bianco'  and mentioning a shorter wait time also suggests strong satisfaction."
+  },
+  {
+    "review_id": "15YFoHK5HPQpg1u_vwbqmA",
+    "actual_stars": 4,
+    "predicted_stars": 4,
+    "explanation": "The review highlights unique ingredients, diverse specials, and delicious food at a reasonable price. There are minor inconveniences with the website but overall, the review is positive and enthusiastic."
+  },
+  {
+    "review_id": "2dEtB3h8yZEONOmUJIUPZQ",
+    "actual_stars": 2,
+    "predicted_stars": 1,
+    "explanation": "The reviewer expresses extreme dissatisfaction with the slow service and lengthy wait times. The negative experience is directly stated as a reason for not returning."
+  },
+  {
+    "review_id": "L1SNUf6VQgG2rolLLvVgxw",
+    "actual_stars": 5,
+    "predicted_stars": 5,
+    "explanation": "The review is highly positive and filled with praise for the food and value.  Terms like 'super delicious,' 'highly recommend,' and 'A+++' clearly indicate a strong positive impression."
+  },
+  {
+    "review_id": "i2WTOTbT1lqu0byxcnY-GA",
+    "actual_stars": 5,
+    "predicted_stars": 4,
+    "explanation": "This review describes a fun and positive experience at Easley's. The author highlights the helpfulness of the staff and how much they enjoyed their time there. They use vivid language to describe the scene and express enthusiasm for the shop."
+  },
+  {
+    "review_id": "_o_WRkKLk7NJeOO6NsOmMA",
+    "actual_stars": 1,
+    "predicted_stars": 2,
+    "explanation": "The review highlights negative customer service experiences and inconsistent food quality which significantly impacts the overall experience.  While the food itself was okay, the poor service, overcharging, and lack of follow-through from management ultimately lead to a disappointing dining experience."
+  },
+  {
+    "review_id": "NqIsMdYelNlkeK32kJPsCQ",
+    "actual_stars": 3,
+    "predicted_stars": 4,
+    "explanation": "The review highlights positive aspects like great service, friendly staff, good deals, and overall satisfaction. This suggests a positive experience that would likely earn 4 stars."
+  },
+  {
+    "review_id": "tiSpPFzMEWbEZf7mXJ-O6w",
+    "actual_stars": 4,
+    "predicted_stars": 4,
+    "explanation": "The reviewer gives the restaurant rave reviews about the food, service, and atmosphere. While they mention a minor noise complaint, it doesn't significantly detract from their overall positive experience. This suggests a strong positive rating."
+  },
+  {
+    "review_id": "ty51pvsTv3KxBaeHFWFZrw",
+    "actual_stars": 3,
+    "predicted_stars": 3,
+    "explanation": "The review mentions both positive and negative aspects - good sides, decent price, and potential but ultimately a poor meal. This warrants a middle-ground rating."
+  },
+  {
+    "review_id": "Fzn7pH4L44WChbaMYaZmxQ",
+    "actual_stars": 3,
+    "predicted_stars": 4,
+    "explanation": "The review praises the sushi quality highly (using phrases like 'best in the valley', 'like no other'), but also points out a major flaw: slow service. This balances out strongly for a 4-star rating."
+  },
+  {
+    "review_id": "LfMuF4r-UJFf-ji1pAVlBA",
+    "actual_stars": 4,
+    "predicted_stars": 5,
+    "explanation": "The review expresses positive feedback on both the food quality (being 'as good as everyone says') and price point. They also highlight a large amount of leftovers, indicating satisfaction with both quantity and quality."
+  },
+  {
+    "review_id": "xCEvHEszA3-CmFqtHacVQg",
+    "actual_stars": 1,
+    "predicted_stars": 3,
+    "explanation": "The review expresses mixed feelings and highlights both positive aspects (family atmosphere, gift shop) and negatives (high prices, distraction from food). This suggests a slightly above average experience."
+  },
+  {
+    "review_id": "_gh5ddLVeF7xEQVUKJLiVg",
+    "actual_stars": 4,
+    "predicted_stars": 4,
+    "explanation": "The review expresses positive sentiment ('happily surprised', 'well done') indicating a generally good experience. While not stating specific reasons for the high rating, the mention of excellent bread and delicious veal points to a positive dining experience."
+  },
+  {
+    "review_id": "_Ctic3_Iuw0ECtqH2Yw5yQ",
+    "actual_stars": 5,
+    "predicted_stars": 5,
+    "explanation": "The review expresses great satisfaction with the food, ambiance, and service.  It mentions multiple positive details like 'incredible guacamole', 'tender meat', and 'exceptional tortillas' - all factors that contribute to a 5-star rating."
+  },
+  {
+    "review_id": "mmAi-uXUcfWLnH8qK2gfug",
+    "actual_stars": 5,
+    "predicted_stars": 5,
+    "explanation": "The review is overwhelmingly positive with phrases like 'great experience,' 'hard to beat food,' and 'satified.' The detailed description of a pleasant environment and reasonable portions further reinforce a high satisfaction level."
+  },
+  {
+    "review_id": "28guWjT8KRZKvMZkltdzew",
+    "actual_stars": 4,
+    "predicted_stars": 4,
+    "explanation": "The review highlights positive aspects like delicious food, fresh ingredients, and impressed with the quality of the restaurant. While the atmosphere and location are noted as drawbacks, the reviewer still expresses enjoyment and a desire to return, suggesting they would give 5 stars if not for those issues. "
+  },
+  {
+    "review_id": "L1ur4N-XFG_kviP0M2_SCA",
+    "actual_stars": 5,
+    "predicted_stars": 5,
+    "explanation": "The review expresses strong positive feelings and includes specific praise for various aspects of the restaurant (staff, drinks, food) indicating a highly satisfied customer."
+  },
+  {
+    "review_id": "hh1L68RTi1FCHNfXGHkc7A",
+    "actual_stars": 5,
+    "predicted_stars": 4,
+    "explanation": "The review highlights strong praise for the burger and excellent service.  However, the less favorable comments on the corn's texture and a minor insect sighting detract slightly from the overall experience."
+  },
+  {
+    "review_id": "L8C_ZWqXelQDG_SzAp3TkA",
+    "actual_stars": 1,
+    "predicted_stars": 2,
+    "explanation": "The review expresses disappointment with the lunch quality compared to the high expectations set by the name and the pleasant experience with desserts. The description of the sandwich and pasta being ordinary and lacking personality further emphasizes this dissatisfaction."
+  },
+  {
+    "review_id": "Oz9HXBHI8cqTeFgEusyUrw",
+    "actual_stars": 5,
+    "predicted_stars": 3,
+    "explanation": "The review is positive, mentioning 'friendly' and 'knowledgeable' staff. However, it lacks detail about the specific experience or service to justify a higher rating."
+  },
+  {
+    "review_id": "1-9CLP4RWHJbNThB7r1ErQ",
+    "actual_stars": 3,
+    "predicted_stars": 2,
+    "explanation": "The reviewer highlights a negative interaction with the night manager and feels the service was inadequate. The overall tone suggests dissatisfaction."
+  },
+  {
+    "review_id": "7Xmf43U-uyrL6FFtq6OSBA",
+    "actual_stars": 2,
+    "predicted_stars": 1,
+    "explanation": "The review heavily criticizes the hotel's cleanliness, service issues, and overall quality, while only highlighting a few positive aspects. This points towards a very negative experience."
+  },
+  {
+    "review_id": "4h1s3CFZX8QjIRmPX1URUw",
+    "actual_stars": 3,
+    "predicted_stars": 3,
+    "explanation": "The review mentions both positive (drinks, potential casual hangout) and negative aspects (parking, slow service, limited menu).  A 3 out of 5 reflects a balanced perspective with some enjoyment, but also points to issues that might deter regular visits."
+  },
+  {
+    "review_id": "LAXS5fIoyHBmRe-gJxUcQA",
+    "actual_stars": 3,
+    "predicted_stars": 3,
+    "explanation": "The review is mostly positive but also critical, indicating a balanced opinion. It points out good aspects like price, food quality, and salsa, while acknowledging that it's not exceptional or remarkable. The mention of considering it 'worth a try' suggests the average rating."
+  },
+  {
+    "review_id": "skfhecYPk8vURCcrfTWtUg",
+    "actual_stars": 4,
+    "predicted_stars": 5,
+    "explanation": "The review uses positive language like 'excellent service' and 'beautiful patio' to suggest a highly satisfied experience."
+  },
+  {
+    "review_id": "H8Uhlrj1bEaAgK5J9SomPw",
+    "actual_stars": 4,
+    "predicted_stars": 4,
+    "explanation": "The review expresses clear positive sentiment throughout, highlighting aspects like clean theaters, quick wait times, and good concession experience. The only mention of a potential negative (waiting in line) is countered by the overall positive tone, indicating a likely 4-star rating"
+  },
+  {
+    "review_id": "QESrotRf2_9329fpBgKvsw",
+    "actual_stars": 5,
+    "predicted_stars": 4,
+    "explanation": "The review consistently uses positive terms like 'good', 'no complaints', and 'always friendly'. It expresses satisfaction with the food (specifically sushi) and hints at potential future exploration of other menu options. This suggests a strong overall positive experience which merits four stars."
+  },
+  {
+    "review_id": "ygVApLq3sbc_U-Y9zFWRdQ",
+    "actual_stars": 3,
+    "predicted_stars": 4,
+    "explanation": "The review is positive, using terms like 'affordable and good', 'clean restaurant' and indicating a future return. This suggests a generally satisfied experience."
+  },
+  {
+    "review_id": "OUhKpg-1LG7bpyxHLtbJDQ",
+    "actual_stars": 1,
+    "predicted_stars": 1,
+    "explanation": "The review expresses extreme dissatisfaction, using strong negative language and claims of misconduct. This strongly suggests a low rating."
+  },
+  {
+    "review_id": "XGZzqC_pPOwqO5QZhHdBNw",
+    "actual_stars": 2,
+    "predicted_stars": 3,
+    "explanation": "The review expresses both positive and negative experiences.  While praising their professionalism and exterior work, they highlight a significant lack of attention to detail in the interior. This mixed feedback warrants a moderate star rating."
+  },
+  {
+    "review_id": "ExhhNpUulh2Yjog-nb6O7A",
+    "actual_stars": 5,
+    "predicted_stars": 5,
+    "explanation": "The review is overwhelmingly positive, highlighting the quality of the pizza, friendly atmosphere, and good deals.  The use of phrases like 'does it right' and 'unbelievable' clearly indicate a high level of satisfaction."
+  },
+  {
+    "review_id": "BswsfdATKn9m2EiT-2_MZg",
+    "actual_stars": 4,
+    "predicted_stars": 4,
+    "explanation": "The review mentions positive aspects like 'polite staff' and 'not waiting long,' indicating a generally positive experience."
+  },
+  {
+    "review_id": "tCps1BXBR4ZUOF-uTxUBMw",
+    "actual_stars": 1,
+    "predicted_stars": 2,
+    "explanation": "The review expresses mixed feelings, mentioning a few positive aspects (happy hour prices) and several negatives (food quality, weak drinks, inconsistent service). Overall, the negative points outweigh the positives."
+  },
+  {
+    "review_id": "Qp7lu-oy_cLz71bjLgpNjA",
+    "actual_stars": 4,
+    "predicted_stars": 5,
+    "explanation": "The review expresses strong positive sentiment about Rumbi's Kahlua pork and its overall experience. The reviewer uses phrases like 'out of this world,' 'magnificent teriyaki sauce,' and 'comfort food' to highlight their satisfaction."
+  },
+  {
+    "review_id": "jUlDw4GmEsdv8mHqJ3wFfQ",
+    "actual_stars": 4,
+    "predicted_stars": 4,
+    "explanation": "The review expresses both positive and negative experiences, highlighting the enjoyable atmosphere for reading and social observation but also expressing a slight frustration with portions. The overall tone is positive, though slightly humorous."
+  },
+  {
+    "review_id": "b6hHEpYexHQ6LNhDLJ8Efw",
+    "actual_stars": 3,
+    "predicted_stars": 2,
+    "explanation": "The reviewer acknowledges the fast service and good deal but finds the food underwhelming. This suggests a lukewarm overall experience."
+  },
+  {
+    "review_id": "qyzPbUwY_QgqdEputNWk6g",
+    "actual_stars": 5,
+    "predicted_stars": 5,
+    "explanation": "The review uses very positive language, consistently highlighting the deliciousness of the food and expressing a strong likelihood to return. The author's enthusiasm for the restaurant is clear."
+  },
+  {
+    "review_id": "VyAIpPxEpMO581PoRB5G6A",
+    "actual_stars": 5,
+    "predicted_stars": 4,
+    "explanation": "The review expresses positive feelings about the place (good brunch and coffee) and highlights a specific item they enjoyed (hot chocolate), suggesting a good overall experience."
+  },
+  {
+    "review_id": "t5Hxl0agkS7p3vDnbl3Yyg",
+    "actual_stars": 3,
+    "predicted_stars": 4,
+    "explanation": "While the review expresses some frustration and negativity, it acknowledges positive aspects of the airport's functionality and cleanliness. The author also provides helpful advice to pet owners while maintaining a slightly humorous tone."
+  },
+  {
+    "review_id": "hQUn4oL-6qnjma8indhLNw",
+    "actual_stars": 2,
+    "predicted_stars": 2,
+    "explanation": "The review expresses mixed feelings about the salon, highlighting both positive (cheap prices, some improvements as the salon got busier) and negative aspects (snoring owner, messy polishes, parking issues).  This points to a middle-ground rating."
+  },
+  {
+    "review_id": "1xrgXladKl8ukUsiyVU_kA",
+    "actual_stars": 1,
+    "predicted_stars": 1,
+    "explanation": "The reviewer expresses significant dissatisfaction with the service and clearly states their negative experience. The harsh language and recommendation to avoid suggests a low star rating."
+  },
+  {
+    "review_id": "LFKXrB40LfFd16xtSuy7MA",
+    "actual_stars": 5,
+    "predicted_stars": 5,
+    "explanation": "The review uses highly positive language like 'best ever', 'home cooked', and 'definitely feels like home'.  The mention of a packed place and the sentiment that others agree further reinforces a positive impression."
+  },
+  {
+    "review_id": "WaXjxD6QcMBQQGOMnlGiYQ",
+    "actual_stars": 3,
+    "predicted_stars": 3,
+    "explanation": "The reviewer expresses disappointment compared to the original Los Dos Molinos but acknowledges it's a decent option for quick downtown eats.  They highlight specific reasons for their lack of excitement and then offer a comparison with the original location."
+  },
+  {
+    "review_id": "-qSWOLcNWhl0aLy-nadlKg",
+    "actual_stars": 4,
+    "predicted_stars": 4,
+    "explanation": "The reviewer expresses both initial disappointment and a positive turnaround, highlighting excellent food with a focus on the communal atmosphere. This suggests a generally positive experience that is slightly marred by price and portion size, leading to a rating in the mid-range."
+  },
+  {
+    "review_id": "CVFQy_w2RKrMA7TtPM0EQA",
+    "actual_stars": 5,
+    "predicted_stars": 5,
+    "explanation": "The review is overwhelmingly positive, highlighting the excellent customer service and personalized recommendations. The writer emphasizes the value of knowledgeable staff and appreciates the price point, ultimately leading to a great experience."
+  },
+  {
+    "review_id": "OQjK5jYwSzoyUvOt1kEyPw",
+    "actual_stars": 3,
+    "predicted_stars": 3,
+    "explanation": "The reviewer gives a positive rating for the facial service but a negative one for the brow and eyelash tinting due to uneven brows and short-lasting lashes. This creates a mixed experience that leans towards a lower overall star rating."
+  },
+  {
+    "review_id": "g0PIxO362sPzzvoYXNU4KQ",
+    "actual_stars": 5,
+    "predicted_stars": 5,
+    "explanation": "Fallback parsing - no explanation"
+  },
+  {
+    "review_id": "2bPgTaY62Jc_FoTtXz35lg",
+    "actual_stars": 5,
+    "predicted_stars": 5,
+    "explanation": "The review expresses strong positive sentiment throughout, highlighting excellent service, food quality, and a pleasant atmosphere. The author clearly enjoyed their experience, and that's reflected in the five-star rating."
+  },
+  {
+    "review_id": "E7R_HyDkf4r0zVEuWxQl7A",
+    "actual_stars": 3,
+    "predicted_stars": 3,
+    "explanation": "The review describes a positive experience with the bar's atmosphere and drinks.  While the food is not exceptional and prices are reasonable, there's no negativity expressed about the service or ambiance."
+  },
+  {
+    "review_id": "PE4ueS5NlXcBw4Ixb8G0hA",
+    "actual_stars": 5,
+    "predicted_stars": 5,
+    "explanation": "The review explicitly states the reviewer loves the coffee and praises the service at the downtown location, indicating a high level of satisfaction."
+  },
+  {
+    "review_id": "fQwfcdBJb1tf7JRTRE5EDg",
+    "actual_stars": 5,
+    "predicted_stars": 5,
+    "explanation": "The review clearly expresses excitement and appreciation for the price deal.  It indicates a strong positive sentiment."
+  },
+  {
+    "review_id": "a0YtahC0ZWer56OPruJA-A",
+    "actual_stars": 2,
+    "predicted_stars": 3,
+    "explanation": "The reviewer gives the sandwiches a fair rating and is clearly looking for a better deli experience.  They mention the free soft serve as potential improvement opportunity, but ultimately are still seeking good deli food."
+  },
+  {
+    "review_id": "3R_6Havc78W_IWkOhK1Liw",
+    "actual_stars": 5,
+    "predicted_stars": 5,
+    "explanation": "The reviewer expresses strong positive sentiment throughout the review, highlighting their love for the food, atmosphere, and value. The language used is extremely enthusiastic and recommends others to visit."
+  },
+  {
+    "review_id": "uCdLSQa-bH_aYM-5DNuQJQ",
+    "actual_stars": 5,
+    "predicted_stars": 5,
+    "explanation": "The reviewer expresses strong positivity, mentioning highlights like 'beautiful desert plants' and 'a lot of beautiful desert plants', along with personal enjoyment from seeing wildlife.  They specifically highlight the free admission and positive experience even amidst wedding events. The overall language indicates a highly positive experience and a recommendation to others."
+  },
+  {
+    "review_id": "WB_tV05UYyBO_EC0oTIXCw",
+    "actual_stars": 2,
+    "predicted_stars": 2,
+    "explanation": "The reviewer gives a neutral rating due to the mixed experience. They acknowledge the similarity to Filibertos but highlight negative aspects of cleanliness and portion size. This suggests they were underwhelmed by the overall quality."
+  },
+  {
+    "review_id": "RSwZ_b5xV9ovGXTX3mux_w",
+    "actual_stars": 2,
+    "predicted_stars": 1,
+    "explanation": "The review expresses extreme dissatisfaction with the store's atmosphere, noise level, cleanliness, and customer behavior. The writer uses strong negative language and is clearly frustrated. This indicates a very poor experience."
+  },
+  {
+    "review_id": "GXhCVzS14jGRpwusofxFIw",
+    "actual_stars": 5,
+    "predicted_stars": 3,
+    "explanation": "The reviewer expresses disappointment but acknowledges the restaurant offers a 'closer to home' experience.  Their comparison to other cities and the presence of Indian patrons indicates positive aspects."
+  },
+  {
+    "review_id": "EuC1SHR55UGShkq3iovTEQ",
+    "actual_stars": 1,
+    "predicted_stars": null,
+    "explanation": "```json\n{\"predicted_stars\": 0, \"explanation\": \"The review indicates a complete absence of the busine"
+  },
+  {
+    "review_id": "M0sPPYqC8ZDESo7HeJgC-g",
+    "actual_stars": 5,
+    "predicted_stars": 5,
+    "explanation": "The review is overwhelmingly positive, using terms like 'great,' 'super sweet,' and 'amazing.'  The mention of a good deal indicates satisfaction and makes the overall tone extremely favorable."
+  },
+  {
+    "review_id": "ZqzBvizyfGpzfiveEsgZ8A",
+    "actual_stars": 3,
+    "predicted_stars": 4,
+    "explanation": "The review emphasizes the authenticity of the food and consistent satisfaction, highlighting a personal favorite. It also provides context about what to expect, but doesn't come across as overly negative or enthusiastic. This suggests a positive experience worthy of high stars."
+  },
+  {
+    "review_id": "ENbvrftx0kvaDfrR1mchSA",
+    "actual_stars": 4,
+    "predicted_stars": 4,
+    "explanation": "The review mentions positive aspects like fast service, fresh food, clean environment, and a good atmosphere. It acknowledges the simplicity of the restaurant and provides a balanced overall assessment."
+  },
+  {
+    "review_id": "iDujx3HhzFt3mv4KPay6eA",
+    "actual_stars": 4,
+    "predicted_stars": 4,
+    "explanation": "This review is overwhelmingly positive with details about the atmosphere and food. The author mentions enjoying the ambiance, cats, and oyster quality.  However, they do include a humorous and somewhat outlandish comment about peeing on the Blarney Stone. This doesn't significantly impact the star rating."
+  },
+  {
+    "review_id": "Z67Znbe5riZE4YISO45XAA",
+    "actual_stars": 1,
+    "predicted_stars": 1,
+    "explanation": "The reviewer explicitly states dissatisfaction with the service and emphasizes their lack of satisfaction. Multiple issues including slow internet speeds, unfulfilled promises, and a non-working fax line are cited, all contributing to a negative experience."
+  },
+  {
+    "review_id": "kPS5PRqkwDpJx_bpDx9lCg",
+    "actual_stars": 3,
+    "predicted_stars": 3,
+    "explanation": "The review expresses a mixed opinion. While the service was good, the dish itself received a neutral rating, indicating that it wasn't particularly impressive or disappointing. This suggests a decent average rating."
+  },
+  {
+    "review_id": "DWq3femFL-muAUB6lMBQDA",
+    "actual_stars": 2,
+    "predicted_stars": 2,
+    "explanation": "The reviewer expresses disappointment and compares the restaurant unfavorably to a familiar chain. This suggests a moderate level of dissatisfaction, hence two stars."
+  },
+  {
+    "review_id": "FSrIgThMfFIh__TubVQkxw",
+    "actual_stars": 3,
+    "predicted_stars": 3,
+    "explanation": "The review expresses mixed feelings.  While positive aspects are highlighted (fresh guacamole, large burritos, and free iced tea), the overall tone is neutral with a lack of strong praise. The use of phrases like 'decently treated' suggests an appreciation for ethical sourcing but ultimately leans towards basic familiarity."
+  },
+  {
+    "review_id": "roMeHsyf55-_O7rpudBbZA",
+    "actual_stars": 4,
+    "predicted_stars": 4,
+    "explanation": "The review praises the food's quality (ingredients, flavor, portions), mentions a positive atmosphere, and suggests future visits.  While some aspects are described less favorably, the overall sentiment is positive."
+  },
+  {
+    "review_id": "31mOjx2g1F2xAVi20JQP1g",
+    "actual_stars": 4,
+    "predicted_stars": 4,
+    "explanation": "The review is positive with words like 'good' pizza, 'nice and laid back', and 'good staff'.  It indicates a fairly good experience."
+  },
+  {
+    "review_id": "a5WztkUFN4onrcG1NMoYuQ",
+    "actual_stars": 5,
+    "predicted_stars": 5,
+    "explanation": "The review uses highly positive language like 'God Filled,' 'charismatic and awesome,' 'Marriage Stronger,' and 'Faith Magical'. This indicates strong satisfaction."
+  },
+  {
+    "review_id": "RxwjDwQsSRE7flP6N4L4tA",
+    "actual_stars": 5,
+    "predicted_stars": 5,
+    "explanation": "The review expresses strong positive sentiments about various aspects of the store, from pricing and selection to customer service.  It also highlights the retailer's helpfulness in a specific situation."
+  },
+  {
+    "review_id": "6wih8fh9hGHRCc4tk6U3ew",
+    "actual_stars": 5,
+    "predicted_stars": 5,
+    "explanation": "The reviewer explicitly states this cafe sua da is their favorite and provides detailed praises for its flavor. The mention of wanting to try pho at a future visit further indicates positive experience."
+  },
+  {
+    "review_id": "DDt-wItJxXlzsErG2XE2mQ",
+    "actual_stars": 3,
+    "predicted_stars": 4,
+    "explanation": "The reviewer mentions enjoying specific items and plans to return, showing positive sentiment. They also highlight potential for a good time, which could be indicative of an enjoyable experience."
+  },
+  {
+    "review_id": "RqwFPp_qPu-1h87pGBAM8w",
+    "actual_stars": 5,
+    "predicted_stars": 4,
+    "explanation": "The review expresses clear enjoyment of the burger and fries despite some reservations about the ambiance.  While humorously mentioning a 'need for security', it ultimately praises the food offering with positive language like 'kick ass' and 'tasty'."
+  },
+  {
+    "review_id": "O7jDv3ntT_rsFrd7qPrC4Q",
+    "actual_stars": 3,
+    "predicted_stars": 4,
+    "explanation": "The review highlights both positive and negative aspects. The good points include a nice atmosphere, good brunch menu, affordable drinks, and enjoyable patio experience. However, the downside of slow service and limited parking redemption  impacts the overall rating slightly."
+  },
+  {
+    "review_id": "Z9XN4EZeGLnlMmuMvo_i8A",
+    "actual_stars": 5,
+    "predicted_stars": 5,
+    "explanation": "The review expresses strong positive feelings about Liberty Market with detailed praises for food, service, and ambiance. The overall tone is enthusiastic and recommends the establishment."
+  },
+  {
+    "review_id": "csHak1d1uCU4oItf8d5MBw",
+    "actual_stars": 5,
+    "predicted_stars": 5,
+    "explanation": "The review contains overwhelmingly positive language about the food, service, atmosphere, and overall experience.  It uses words like 'awesome,' 'delicious,' 'good,' and 'perfect' to express satisfaction."
+  },
+  {
+    "review_id": "hBg8uej4Ix74Vq5LLPuiOA",
+    "actual_stars": 5,
+    "predicted_stars": 5,
+    "explanation": "The review expresses clear satisfaction and positive recommendations for Jeff's service, indicating a highly positive experience."
+  },
+  {
+    "review_id": "Rfu5grIwYtiEQbbMZtGwTg",
+    "actual_stars": 5,
+    "predicted_stars": 5,
+    "explanation": "The review is overwhelmingly positive, highlighting the delicious food, beautiful location, and enjoyable experience. The use of phrases like 'awesome', 'surprised at how enjoyable' and 'perfect place for lunch' demonstrates strong satisfaction."
+  },
+  {
+    "review_id": "yheuEeK2zj6HaNY5bAzhgQ",
+    "actual_stars": 4,
+    "predicted_stars": 3,
+    "explanation": "The review is balanced overall, highlighting both positives (games, bar) and negatives (food prices, service). A 3 out of 5 star rating seems appropriate due to the mixed experience."
+  },
+  {
+    "review_id": "GiGm00UCTSDwA0c7RhRDFQ",
+    "actual_stars": 4,
+    "predicted_stars": 4,
+    "explanation": "The review expresses strong positive sentiments about the ambiance, food, and overall experience at Joe's Farm Grill. The reviewer provides specific details and positive testimonials. While mentioning potential downsides like needing to work off calories after a walk, it ultimately leans towards a favorable experience."
+  },
+  {
+    "review_id": "kUw0d4RX-tp32zmP-XwkXw",
+    "actual_stars": 5,
+    "predicted_stars": 5,
+    "explanation": "The review expresses strong positive sentiment towards Sephora, highlighting its wide selection, amenities like late hours and drinks, and overall satisfaction. The author compares it to a joyful experience."
+  },
+  {
+    "review_id": "T6x80EWBNGa6qzfCjSdMEg",
+    "actual_stars": 5,
+    "predicted_stars": 5,
+    "explanation": "The review expresses clear satisfaction with the restaurant, mentioning 'loved', 'reasonable prices', and 'very personal service' along with positive descriptions of Pablo. This strongly suggests a high level of enjoyment."
+  },
+  {
+    "review_id": "d4tC0RRd0ldMNZHeIMbGuQ",
+    "actual_stars": 1,
+    "predicted_stars": 1,
+    "explanation": "The review is overwhelmingly negative and filled with expletives. The language used suggests extreme dissatisfaction with the establishment."
+  },
+  {
+    "review_id": "1sn0-eY_d1Dhr6Q2uoFCgg",
+    "actual_stars": 4,
+    "predicted_stars": 4,
+    "explanation": "The review mentions 'both good', 'fresh and tasty' salsa, 'friendly service' which are positive aspects.  It also expresses a clear intention to return indicating overall satisfaction."
+  },
+  {
+    "review_id": "W2E-KyisRMC5fuih1AjTlA",
+    "actual_stars": 4,
+    "predicted_stars": 3,
+    "explanation": "The review is mostly positive regarding service but negative about the food quality. This suggests a mixed experience that likely warrants 3 stars."
+  },
+  {
+    "review_id": "INgYGonM78YMB-5vpfoPQQ",
+    "actual_stars": 5,
+    "predicted_stars": 4,
+    "explanation": "The review expresses positive sentiment about the atmosphere, food, cocktails, and service. While some aspects are slightly expensive, they ultimately recommend the restaurant as a great experience for friends."
+  },
+  {
+    "review_id": "Ri6D23gr3_WqLgcZL6ttqg",
+    "actual_stars": 3,
+    "predicted_stars": 2,
+    "explanation": "The review is mixed. While they acknowledge the ice cream's deliciousness, it's ultimately described as 'average' and compared unfavorably to other brands.  The positive points (price, seating) don't outweigh this criticism."
+  },
+  {
+    "review_id": "21Nfgtnns8gZuzNfg7c_QQ",
+    "actual_stars": 4,
+    "predicted_stars": 4,
+    "explanation": "The review uses positive language like 'great', 'killer burgers', 'family owned restaurant goodness' and highlights specific aspects they enjoyed. While mentioning a line is a minor drawback, the overall tone is clearly positive and suggests a good experience justifying a higher star rating."
+  },
+  {
+    "review_id": "VdD-2K_izVXf9nd912TkXg",
+    "actual_stars": 2,
+    "predicted_stars": 2,
+    "explanation": "The review expresses disappointment despite acknowledging some positive aspects. The author uses the term 'meh' to indicate their lackluster experience, and they specifically mention having better meals elsewhere."
+  },
+  {
+    "review_id": "2YfYYOjwd_yOHxEuv-9Sqg",
+    "actual_stars": 3,
+    "predicted_stars": 3,
+    "explanation": "The review praises specific dishes (fajitas, salsa) but criticizes price and service.  A moderate rating reflects this balance of positive and negative aspects."
+  },
+  {
+    "review_id": "gjtWdiEMMfoOTCfdd3hPmA",
+    "actual_stars": 4,
+    "predicted_stars": 4,
+    "explanation": "The review is overwhelmingly positive, highlighting the fun atmosphere, unique decor, and delicious brunch. While there was a slight disappointment with the brunch opening time, the overall experience is deemed enjoyable and well-worth visiting."
+  },
+  {
+    "review_id": "EI3YXHKCwAIrEj18OVNg-g",
+    "actual_stars": 5,
+    "predicted_stars": 4,
+    "explanation": "The reviewer expresses positive sentiment throughout but lacks specific details, leaning towards a general recommendation. The 'Great' experience and praise for the service hint at a positive impression."
+  }
+]
